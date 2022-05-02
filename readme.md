@@ -158,7 +158,7 @@ Les propriétés des objets geojson :
                                 id="zones-touristiques-paris"
                             />
                             <label class="form-check-label" for="zones-touristiques-paris">
-                                Routes
+                                Zones touristiques
                             </label>
                         </div>
                         <div class="form-check">
@@ -168,7 +168,7 @@ Les propriétés des objets geojson :
                                 id="arrondissement-paris"
                             />
                             <label class="form-check-label" for="arrondissement-paris">
-                                Départements
+                                Arrondissements
                             </label>
                         </div>
                     </div>
